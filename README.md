@@ -1,6 +1,3 @@
 # DEC
 
-Technologies:
-Python
-Scarpy
-Pycrypt
+Decentralized Encrypted Chat
